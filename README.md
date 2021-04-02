@@ -26,19 +26,7 @@ Actual time needed to complete: less than 1 hour
 
 Number and name of feature: 4
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: 2 hour
 
-Start time: _____
+Actual time needed to complete: 3 hour
 
-Finish time: _____
-
-Actual time needed to complete: _____
-Number and name of feature: ________________________________
-
-Estimate of time needed to complete: _____
-
-Start time: _____
-
-Finish time: _____
-
-Actual time needed to complete: _____
