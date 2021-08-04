@@ -109,7 +109,8 @@ br.clear {
         margin-bottom: 0;
     }
     .row > section, .row > article {
-        margin-bottom: 0;
+        margin: 8px;
+        padding: 0;
     }
 /* Image */
 	.image {
@@ -308,7 +309,7 @@ table {
                 }
             /* Header */
                 #header {
-                    width: 300px;
+                    width: 230px;
                 }
             /* Footer */
                 #footer {
@@ -316,7 +317,7 @@ table {
                 }
             /* Main */
                 #main {
-                    margin-left: 300px;
+                    margin-left: 227px;
                 }
         }
    

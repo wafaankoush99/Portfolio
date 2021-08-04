@@ -156,8 +156,8 @@ button,
                     padding-right: 10%;
                 }
             #nav ul li a.active {
-                background: rgba(0, 0, 0, 0.15);
-                box-shadow: inset 0 0 0.25em 0 rgba(0, 0, 0, 0.125);
+                /* background: rgba(0, 0, 0, 0.15);
+                box-shadow: inset 0 0 0.25em 0 rgba(0, 0, 0, 0.125); */
                 color: #fff;
             }
                 #nav ul li a.active span:before {

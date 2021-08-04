@@ -50,9 +50,11 @@ section, article {
 	/* Row */
 	.row {
 		display: flex;
+		justify-content: space-around;
 		flex-wrap: wrap;
-		box-sizing: border-box;
-		align-items: stretch;
+
+		/* box-sizing: border-box;
+		align-items: stretch; */
 	}
 		.row > * {
 			box-sizing: border-box;
