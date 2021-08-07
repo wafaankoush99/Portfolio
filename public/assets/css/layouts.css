@@ -26,6 +26,7 @@ section, article {
 		.container {
 			width: 1200px;
 		}
+
 	}
 	@media screen and (min-width: 961px) and (max-width: 1620px) {
 		.container {

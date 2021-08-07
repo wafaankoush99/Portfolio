@@ -14,6 +14,7 @@ server.use(expressLibrary.static('./public'));
 // localHost:3000/
 server.get('/',(request,response)=>{
     response.send('route')
+    // response.render('dist/index')
 });
 
 // localHost:3000/test 
